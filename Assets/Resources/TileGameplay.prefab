@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8535191993911374332
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -5758019016837497438, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 189466150698118930, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4412295821950643192, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4412295821950643192, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4412295821950643192, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4998124100705379439, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_Name
+      value: TileGameplay
+      objectReference: {fileID: 0}
+    - target: {fileID: 6313744574405543119, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6313744574405543119, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6313744574405543119, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6313744574405543119, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6313744574405543119, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6313744574405543119, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6313744574405543119, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6313744574405543119, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6313744574405543119, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6313744574405543119, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6313744574405543119, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7109213435790894668, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7109213435790894668, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7109213435790894668, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7109213435790894668, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+--- !u!1 &3688431081562084755 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4998124100705379439, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+  m_PrefabInstance: {fileID: 8535191993911374332}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4450678387651048480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3688431081562084755}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f1d8027afa5634448f754c173dd7de7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TileName: 
+  _renderer: {fileID: 5424735600724318724}
+  _highlight: {fileID: 8417801169594359534}
+  _isWalkable: 1
+  _done: 0
+  OccupiedUnit: {fileID: 0}
+  tiled: []
+  nameTile: 
+  check: 0
+  way: 1
+  _baseColor: {r: 1, g: 1, b: 1, a: 0.84313726}
+  _offsetColor: {r: 0.047169805, g: 0.027812386, b: 0.027812386, a: 0.972549}
+--- !u!212 &5424735600724318724 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 4412295821950643192, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+  m_PrefabInstance: {fileID: 8535191993911374332}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8417801169594359534 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 189466150698118930, guid: aded39002e6dcf84e8f6e5ecb7aca6ca, type: 3}
+  m_PrefabInstance: {fileID: 8535191993911374332}
+  m_PrefabAsset: {fileID: 0}
